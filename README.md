@@ -1,22 +1,21 @@
-# Techfest Landing Page  
+# AstroNest – Space Living Redefined  
 
-A simple, responsive **landing page** for **Techfest, IIT Bombay**, built using only **one HTML file** (with embedded CSS).  
+A modern, responsive landing page for **AstroNest**, showcasing the concept of luxury living in space. Built using **HTML5** and **CSS3**, this page features animated gradients, a clean layout, and an engaging call-to-action.
 
 ## 🚀 Features  
-- **Single File Project** – All HTML & CSS in one file (`index.html`)  
-- **Responsive Design** – Optimized for desktops, tablets, and mobiles  
-- **Hero Section** – Eye-catching title, subtitle, and call-to-action button  
-- **Animated Floating Shapes** – Adds a modern, dynamic touch  
-- **Smooth Hover Effects** – Interactive navigation and button styles  
-- **Minimalistic & Clean** – Easy to read and customize  
+- **Responsive Layout** – Works seamlessly on desktop and mobile.  
+- **Animated Gradient Heading** – Eye-catching animated text for the brand name.  
+- **Modern Design** – Minimalistic and futuristic UI with a centered hero section.  
+- **Call-to-Action Button** – Encourages users to reserve their pod.  
+- **Clean & Modular Code** – Separate HTML and CSS files for easy customization.  
 
 ## 📂 Project Structure  
-├── index.html # Contains both HTML and CSS
-
+├── index.html # Main HTML file (structure of the landing page)
+└── style.css # External CSS file (styling and animations)
 
 ## 🛠️ Technologies Used  
-- **HTML5** – For structure and content  
-- **CSS3** – For styling, responsiveness, and animations  
+- **HTML5** – For the structure and content.  
+- **CSS3** – For styling, gradients, and animations.  
 
 ## 📸 Preview  
 https://techfest-landing-page-ten.vercel.app/
