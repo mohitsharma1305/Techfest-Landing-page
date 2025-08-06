@@ -1,0 +1,63 @@
+/* style.css for AstroNest Landing Page */
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(120deg, #0f2027, #2c5364 80%);
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: rgba(20, 30, 48, 0.85);
+  border-radius: 2rem;
+  box-shadow: 0 8px 32px 0 rgba(44,83,100,0.25);
+  max-width: 480px;
+}
+.headline {
+  font-size: 3rem;
+  font-weight: 900;
+  letter-spacing: 2px;
+  background: linear-gradient(90deg, #00c3ff, #ffff1c, #ff61a6, #00c3ff);
+  background-size: 200% auto;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: wavy-gradient 3s linear infinite;
+}
+@keyframes wavy-gradient {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
+.tagline {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin: 1.2rem 0 1.5rem 0;
+  color: #b2e0ff;
+  letter-spacing: 1px;
+}
+.desc {
+  font-size: 1.1rem;
+  color: #e0e0e0;
+  margin-bottom: 2.2rem;
+}
+.cta-btn {
+  display: inline-block;
+  padding: 0.9rem 2.2rem;
+  background: linear-gradient(90deg, #00c3ff 60%, #ff61a6 100%);
+  color: #fff;
+  border-radius: 50px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 4px 16px 0 rgba(0,195,255,0.10);
+  transition: background 0.3s, color 0.3s, transform 0.3s;
+}
+.cta-btn:hover {
+  background: linear-gradient(90deg, #ff61a6 60%, #00c3ff 100%);
+  color: #ffff1c;
+  transform: scale(1.07);
+}
