@@ -8,6 +8,7 @@ A modern, responsive landing page for **AstroNest**, showcasing the concept of l
 - **Modern Design** – Minimalistic and futuristic UI with a centered hero section.  
 - **Call-to-Action Button** – Encourages users to reserve their pod.  
 - **Clean & Modular Code** – Separate HTML and CSS files for easy customization.  
+ 
 
 ## 📂 Project Structure  
 ├── index.html # Main HTML file (structure of the landing page)
