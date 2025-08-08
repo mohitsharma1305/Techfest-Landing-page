@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for **AstroNest**, showcasing the concept of luxury living in space. Built using **HTML5** and **CSS3**, this page features animated gradients, a clean layout, and an engaging call-to-action.
 
-## 🚀 Features  
+## 🚀  Features  
 - **Responsive Layout** – Works seamlessly on desktop and mobile.  
 - **Animated Gradient Heading** – Eye-catching animated text for the brand name.  
 - **Modern Design** – Minimalistic and futuristic UI with a centered hero section.  
